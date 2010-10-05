@@ -8,7 +8,7 @@ log_level       :info
 log_location    STDOUT
 
 recipe_url      "http://headshift.github.com/cinderella/cinderella.tgz"
-json_attribs    "http://headshift.github.com/cinderella/latest"
+json_attribs    "http://headshift.github.com/cinderella/latest.js"
 
 sandbox_path     "#{cinderella_root}/sandboxes"
 cookbook_path    "#{cinderella_root}/cookbooks"
