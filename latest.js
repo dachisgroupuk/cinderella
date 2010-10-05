@@ -1,1 +1,1 @@
-{"recipes":["homebrew","homebrew::dbs","homebrew::misc","ruby","ruby::irbrc","node","python","erlang"]}
+{"recipes":["homebrew","homebrew::dbs","homebrew::misc","ruby","ruby::irbrc"]}
