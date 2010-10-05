@@ -7,8 +7,8 @@ cinderella_root = File.expand_path("~/.cinderella")
 log_level       :info
 log_location    STDOUT
 
-recipe_url      "http://ciderapp.org/cider.tgz"
-json_attribs    "http://ciderapp.org/latest"
+recipe_url      "http://headshift.github.com/cinderella/cinderella.tgz"
+json_attribs    "http://headshift.github.com/cinderella/latest"
 
 sandbox_path     "#{cinderella_root}/sandboxes"
 cookbook_path    "#{cinderella_root}/cookbooks"
