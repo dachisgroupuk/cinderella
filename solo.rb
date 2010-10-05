@@ -14,4 +14,4 @@ sandbox_path     "#{cinderella_root}/sandboxes"
 cookbook_path    "#{cinderella_root}/cookbooks"
 file_cache_path  "#{cinderella_root}"
 file_backup_path "#{cinderella_root}/backup"
-cache_options   ({ :path => "#{cinderella_root}/cache/checksums", :skip_expires => true }
+cache_options   ({ :path => "#{cinderella_root}/cache/checksums", :skip_expires => true })
