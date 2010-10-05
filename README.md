@@ -6,7 +6,10 @@ apple + homebrew + chef
 Installing
 ==========
 
-    % open http://www.atmos.org/cinderella/intro.html
+From headshift environment
+
+    % gem install cinderella 
+    % cinderella
 
 You should be in great shape for contributing to open source on a mac after that.
 

@@ -22,7 +22,7 @@ module Cider
     private
 
     def download_solo_rb
-      response = RestClient.get("http://ciderapp.org/solo.rb")
+      response = RestClient.get("http://headshift.github.com/cinderella/solo.rb")
       if response.code == 200
         File.open(filename, "w") do |fp|
           fp.write(response.body)

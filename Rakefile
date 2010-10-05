@@ -3,11 +3,11 @@ require 'rubygems/specification'
 require 'bundler'
 
 GEM         = "cinderella"
-GEM_VERSION = "0.2.2"
-AUTHOR      = "Corey Donohoe"
-EMAIL       = "atmos@atmos.org"
-HOMEPAGE    = "http://github.com/atmos/cinderella"
-SUMMARY     = "The development environment you never wanted to manage alone"
+GEM_VERSION = "0.2.2.1"
+AUTHOR      = "Headshift"
+EMAIL       = "no-reply@headshift.com"
+HOMEPAGE    = "http://github.com/headshift/cinderella"
+SUMMARY     = "Set-up Mac development environment - This is a fork of http://github.com/atmos/cinderella"
 
 spec = Gem::Specification.new do |s|
   s.name             = GEM
