@@ -3,7 +3,7 @@ require 'rubygems/specification'
 require 'bundler'
 
 GEM         = "cinderella"
-GEM_VERSION = "0.2.2.1"
+GEM_VERSION = "0.2.5.1"
 AUTHOR      = "Headshift"
 EMAIL       = "no-reply@headshift.com"
 HOMEPAGE    = "http://github.com/headshift/cinderella"
